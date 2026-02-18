@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "slug": "toy-tank",
+    "title": "Toy Tank!",
+    "image": "assets/img/Toy Tank!.jpg",
+    "video": "assets/videos/StrawssBerry Trailer.mp4",
+    "concept": "ToyTank is a 3D action platformer where you have to go from point A to point B using your tank skills... You must go through all the different levels and escape from the room.",
+    "team": "7 programmers",
+    "technology": "Custom C++ engine made from scratch using Visual Studio",
+    "contribution": "As a gameplay programmer, my contribution where:",
+    "contributionList": [
+        { "contribution": "Implemented a path editor that used Bezier curve" },
+        { "contribution": "Implemented the animations at the beginning of the levels" },
+        { "contribution": "Developed the turret enemy" },
+        { "contribution": "In charge of searching and implementing sounds effects for the game" }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "eyes-of-minerva",
+    "title": "Eyes of Minerva",
+    "image": "assets/img/Eyes of Minerva.png",
+    "video": "assets/videos/Eyes Of Minerva Trailer.mp4",
+    "concept": "Eyes of Minerva is a stealth first person puzzle game, where the player will traverse a maze of rooms riddled with enemies looking to eliminate the player. The players will have to use all the tools at their disposal to either distract or disable the enemies",
+    "team": "6 programmers / 4 artists",
+    "technology": "Unreal Engine 4",
+    "contribution": "As a gameplay programmer and level designer, my contribution where:",
+    "contributionList": [
+        { "contribution": "Developed the turret enemy and its different variations" },
+        { "contribution": "Contributed on sound implementations" },
+        { "contribution": "Contributed on the implementation of the boss" },
+        { "contribution": "Contributed on the implementation of the boss room" },
+        { "contribution": "Designed the last level before the boss fight" }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "strawssberry",
+    "title": "StrawssBerry",
+    "image": "assets/img/StrawssBerry.jpg",
+    "video": "assets/videos/StrawssBerry Trailer.mp4",
+    "concept": "StrawssBerry is a 2D platform game where you have to solve challenging puzzles on a dangerous dark world to reach the end and discover the truth. Guide Strawss on his journey throug different levels, managing wisely the habilities while you help him finding out the secrets of his past and heritage.",
+    "team": "5 programmers / 5 artists",
+    "technology": "Custom C++ engine made from scratch using Visual Studio",
+    "contribution": "As a gameplay programmer, my contribution where:",
+    "contributionList": [
+        { "contribution": "Developed and structured the enemy class hierarchy and behavior architecture" },
+        { "contribution": "Developed the enemy with the crossbow and the mage" },
+        { "contribution": "Implemented the animations for the knight" },
+        { "contribution": "Implemented animations for the ghost and posesion of all characters" }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "slug": "computer-graphics",
+    "title": "Computer graphics",
+    "image": "assets/img/cs300.png",
+    "video": "assets/videos/cs300 Trailer.mp4",
+    "about": "Rendering techniques implemented such as texturing, illumination models, transparency, shading algorithms, mapping techniques (bump mapping, environment/reflection mapping, etc.), and shadows."
+  },
+  {
+    "id": 2,
+    "slug": "space-partitioning",
+    "title": "Space partitionin",
+    "image": "assets/img/cs300.png",
+    "video": "assets/videos/cs300 Trailer.mp4",
+    "about": "Implementations to avoid bottlenecks in the CPU and GPU such as some spacial data structures (octrees and kd-trees), the construction of bounding volumes and their hierarchies for collision detection and the GJK method."
+  },
+  {
+    "id": 3,
+    "slug": "neural-network",
+    "title": "Neural network",
+    "image": "assets/img/cs300.png",
+    "video": "assets/videos/cs300 Trailer.mp4",
+    "about": "Implemented Neural Network and then applied the technique of Deep Q-Learning to make an AI learn to play the game Snake.",
+    "extras": [
+        { "tittle": "", "description": "Take a look at the documentation" }
+    ]
+  }
+]
