@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gaizkacalvo.github.io/sitemap.xml
